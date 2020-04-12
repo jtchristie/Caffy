@@ -7,6 +7,8 @@
  
  The MapView is styled using Google Maps Tile Overlay which I adapted for SwiftUI
  
+ This app also shows the use of Environment Objects
+ 
 ![Mapview](https://github.com/jtchristie/Caffy/blob/master/Screenshots/MapView.png)
 ![Demo gif](https://github.com/jtchristie/Caffy/blob/master/Screenshots/demo.gif)
 ![Authentication Screen](https://github.com/jtchristie/Caffy/blob/master/Screenshots/Authentication%20Screen.png)
