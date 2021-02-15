@@ -1,3 +1,5 @@
+#This app is not being maintained and thus may not be compatible with recent versions of SwiftUI. This app is intended to serve as an example of how to parse Google Places API data into data that is compatible with Apple Maps in order to place markers programatically.
+
 # Caffy
  SwiftUI app that uses the Google Places API to find Cafes near you
  
