@@ -1,0 +1,6 @@
+framework module GoogleMapsTileOverlay {
+  umbrella header "GoogleMapsTileOverlay-umbrella.h"
+
+  export *
+  module * { export * }
+}
